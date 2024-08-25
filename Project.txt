@@ -1,0 +1,36 @@
+Seçim Projesi
+*******************
+5 parti
+A-B-C-D-E
+
+İstanbul
+
+Şişli
+Kadıköy
+Beşiktaş
+Beyoğlu
+Sarıyer
+***********************
+Amaç: Bu proje, İstanbul’un belirli ilçelerinde yapılan seçim sonuçlarını analiz etmek ve istatistiksel verileri görselleştirmek amacıyla geliştirilmiştir. Proje kapsamında 5 siyasi partiye ait oy dağılımları toplanmış ve bu veriler kullanıcıya sunulmuştur.
+
+Partiler:
+
+A Parti
+B Parti
+C Parti
+D Parti
+E Parti
+Kapsam: Bu proje, İstanbul'daki belirli ilçeleri kapsamaktadır. Her bir ilçe için ilgili partilerin aldığı oy oranları ve toplam oy sayıları dikkate alınmıştır. Proje, ilçeler arasında şu bölgeleri içermektedir:
+
+Şişli
+Kadıköy
+Beşiktaş
+Beyoğlu
+Sarıyer
+Özellikler:
+
+Oy Girişi: Kullanıcılar, belirli bir ilçe için parti bazında oy girişi yapabilir.
+Grafiksel Gösterim: Her bir parti için alınan toplam oylar grafikler üzerinde görselleştirilir.
+En Yüksek Oy Alan Parti: Seçilen ilçe için en yüksek oy alan parti belirlenir ve kullanıcıya bildirilir.
+Veritabanı Entegrasyonu: Proje, SQL Server veritabanı ile entegre olup, verileri saklamak ve yönetmek için veritabanını kullanır.
+Kullanım Alanları: Bu proje, seçim sonuçlarının analiz edilmesi ve sunulması gereken çeşitli alanlarda kullanılabilir. Özellikle seçim sonuçlarını görselleştirmek ve farklı partilerin aldığı oy oranlarını kıyaslamak için uygun bir platform sağlar. 
